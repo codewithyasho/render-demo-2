@@ -9,6 +9,7 @@ import plotly.utils
 import tempfile
 
 app = Flask(__name__)
+app.secret_key = 'lung-cancer-prediction-app-2024'
 
 
 # Load the ML model and expected columns
