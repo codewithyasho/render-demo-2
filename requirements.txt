@@ -1,0 +1,15 @@
+# Core Flask and Web Framework
+Flask
+Werkzeug
+
+# Machine Learning Libraries
+scikit-learn
+joblib==1.5.1
+fpdf==1.7.2
+
+# Data Processing
+numpy==2.2.6
+pandas==2.3.0
+plotly
+
+gunicorn
